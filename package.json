@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/enPlace/jest-getting-started#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.14.9",
     "jest": "^27.0.6"
   }
 }
